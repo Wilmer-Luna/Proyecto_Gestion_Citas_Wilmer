@@ -1,6 +1,8 @@
 # Proyecto_Gestion_Citas_Wilmer
 PROYECTO FINAL SENA_WILMER NIÑO LUNA_FICHA 2758365
 
-Ubicación de los Archivos C:\xampp\htdocs\citas
+Installar Xampp
 
-Nombre base de datos "citas_db" (Importar en http://localhost/phpmyadmin/)
+Agregar la Carpeta "Citas" dentro de la ubicación C:\xampp\htdocs
+
+En (http://localhost/phpmyadmin/) crear una base de datos con el nombre "citas_db" e importar el archivo "citas_db.sql"
